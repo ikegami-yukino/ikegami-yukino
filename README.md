@@ -1,6 +1,5 @@
-### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikegami-yukino&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikegami-yukino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Hi 👋
+I maintain many projects related to processing Japanese text. If you've had trouble with any of my projects, feel free to open an issue.
 <!--
 **ikegami-yukino/ikegami-yukino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
